@@ -6,3 +6,16 @@ nav h1{
    position: absolute;
    font-family: fantasy, cursive, sans-serif;
 }
+
+#nathan{
+  min-height: 30vh;
+  min-width: 60vw;
+  max-width: 60vw;
+  float: right;
+  background-color: lightblue;
+  border: 2px solid black;
+}
+
+#nathan p, #nathan h3{
+  margin: 5px
+}
